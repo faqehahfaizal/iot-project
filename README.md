@@ -6,7 +6,7 @@
 ## Week 3 Update
 Added by Law Fu Hui using a feature branch.
 
-##Week 3 Update
+## Week 3 Update
 Added by Law Fu Hui using a feature branch.
 I am Ru Yik, today is my second lab session
 This is a feature from Ruyik's branch
