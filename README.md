@@ -22,5 +22,7 @@ Ruyik thinks this should be YELLOW!
 
 Added by Faqehah Sofeeyah using a feature branch. (Edited by Sofeeyah from the main branch.)
 
-Week 3 Conflict and RuYik has resolved the conflict by removing the line "RuYik thinks this should be Red!"
+
+
+Week 3 Conflict and RuYik has resolved the conflict by removing the line "RuYik thinks this should be Yellow!" I dont want yellow
 
