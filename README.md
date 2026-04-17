@@ -13,3 +13,6 @@ Added by Law Fu Hui using a feature branch.
 I am Ru Yik, today is my second lab session
 
 This is a feature from Ruyik's branch
+
+## Week 3 Update
+Added by Faqehah Sofeeyah using a feature branch.
