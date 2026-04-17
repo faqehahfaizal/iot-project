@@ -16,3 +16,5 @@ This is a feature from Ruyik's branch
 
 ## Week 3 Update
 Added by Faqehah Sofeeyah using a feature branch.
+
+Week 3 Conflict from Fuhui
