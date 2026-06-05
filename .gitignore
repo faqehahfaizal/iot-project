@@ -1,2 +1,6 @@
 .env
 .env
+sensor_data.db
+venv/
+.env
+__pycache__/

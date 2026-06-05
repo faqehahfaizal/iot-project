@@ -1,0 +1,16 @@
+[Unit]
+Description=IoT Sensor Data Collector
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=raspberrypi5
+WorkingDirectory=/home/raspberrypi5/iot-lab
+ExecStart=/home/raspberrypi5/iot-lab/venv/bin/python3 /home/raspberrypi5/iot-lab/week7_dht_reader.py
+Restart=always
+RestartSec=10
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target
