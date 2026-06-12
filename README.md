@@ -1,28 +1,15 @@
-# Faqehah Notes 10 April
+# Integrating DHT11 with Raspberry pi board
 
-# Week 2 Lab git pull git push
-## Week 2 Push from Law Fu Hui
+This repo is for learning purposes. Subject: SEEE 4213, Software Engineering. Semester: 2526/2. Group name: Smart Sense. University Teknologi Malaysia, Skudai.
 
-## Week 3 Update
-Added by Law Fu Hui using a feature branch.
-
-## Week 3 Update
-Added by Law Fu Hui using a feature branch.
-
-
-I am Ru Yik, today is my second lab session
-
-This is a feature from Ruyik's branch
-
-## Week 3 Update
-
-Added by Faqehah Sofeeyah using a feature branch. ADDCHANGE
-
-Ruyik thinks this should be YELLOW!
-
-Added by Faqehah Sofeeyah using a feature branch. (Edited by Sofeeyah from the main branch.)
-
-
-
-Week 3 Conflict and RuYik has resolved the conflict by removing the line "RuYik thinks this should be Yellow!" I dont want yellow
-
+This repo consists of 10 weeks handson project for the subject. Below is the summary of the project flow.
+Week 1: Github and Project Setup
+Week 2: Basic Github Collaboration
+Week 3: Team Workflow
+Week 4: DHT11 Sensor Integration
+Week 5: Local Data Persistence
+Week 6: Data Analysis
+Week 7: Cloud Integration - Blynk Dashboard
+Week 8: Auto-Start on Boot - Systemd Services
+Week 9: Network Failure Recovery
+Week 10: Integration Demo
