@@ -3,7 +3,8 @@
 This repo is for learning purposes. Subject: SEEE 4213, Software Engineering. Semester: 2526/2. Group name: Smart Sense.\
 University Teknologi Malaysia, Skudai.
 \
-\This repo consists of 10 weeks handson project for the subject. Below is the summary of the project flow.\
+\
+This repo consists of 10 weeks handson project for the subject. Below is the summary of the project flow.\
 Week 1: Github and Project Setup\
 Week 2: Basic Github Collaboration\
 Week 3: Team Workflow\
