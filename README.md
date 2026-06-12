@@ -11,5 +11,5 @@ Week 5: Local Data Persistence
 Week 6: Data Analysis
 Week 7: Cloud Integration - Blynk Dashboard
 Week 8: Auto-Start on Boot - Systemd Services
-Week 9: Network Failure Recovery
+Week 9: Network Failure Recovery - CURRENTLY WE TRY PULL REQUEST AND MERGE
 Week 10: Integration Demo
