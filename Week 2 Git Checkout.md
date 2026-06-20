@@ -1,4 +1,4 @@
-# Faqehah Notes - 10 April 2026
+# Week 2, trying to git checkout the main branch
 
 Today is lab 2 session.
 We try to collaborate in a shared repository and learn to use the push and pull command.
